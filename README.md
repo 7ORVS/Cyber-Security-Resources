@@ -11,13 +11,17 @@ I'll update this repo continuously if I find anything useful.
 - https://guyinatuxedo.github.io/index.html
 - https://hasherezade.github.io/articles.html
 - http://www.openrce.org/articles/
-
+- https://malwareunicorn.org/#/
+- https://dmcxblue.gitbook.io/red-team-notes-2-0/
+- https://www.ired.team/
 
 ---
 
-## Useful Plug-ins for RE and MA:
+## Useful plug-ins and tools for RE and MA:
 
--
+- [HashDB](https://github.com/OALabs/hashdb-ida)
+- [CAPA](https://github.com/mandiant/capa/blob/master/capa/ida/plugin/README.md)
+
 
 ---
 
@@ -31,6 +35,11 @@ I'll update this repo continuously if I find anything useful.
 - [0xca7](https://www.youtube.com/@0xca733)
 - [c3rb3ru5d3d53c](https://www.youtube.com/@c3rb3ru5d3d53c/featured)
 - [BinaryAdventure](https://www.youtube.com/@BinaryAdventure)
-
+- [OpenSecurityTraining2](https://www.youtube.com/@OpenSecurityTraining)
 ---
+
+## Useful Websites:
+
+- https://filesec.io/
+- https://malapi.io/
 
