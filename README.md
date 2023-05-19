@@ -14,7 +14,11 @@ I'll update this repo continuously if I find anything useful.
 - https://malwareunicorn.org/#/
 - https://dmcxblue.gitbook.io/red-team-notes-2-0/
 - https://www.ired.team/
-
+- https://www.aldeid.com/wiki/Main_Page
+- https://www.0ffset.net/blog/
+- https://1malware1.medium.com/
+- https://www.jaiminton.com/#
+- https://embee-research.ghost.io/
 ---
 
 ## Useful plug-ins and tools for RE and MA:
@@ -40,6 +44,16 @@ I'll update this repo continuously if I find anything useful.
 
 ## Useful Websites:
 
-- https://filesec.io/
-- https://malapi.io/
+- https://filesec.io
+- https://malapi.io
+
+---
+
+## Links may be useful for random topics
+
+- https://renenyffenegger.ch/notes/Windows/registry/tree/HKEY_LOCAL_MACHINE/Software/Microsoft/Windows-NT/CurrentVersion/AeDebug/index (This technique can be used to detect debugger)
+
+- https://renenyffenegger.ch/notes/Windows/ (windows internals)
+
+- https://github.com/LordNoteworthy/al-khaser (GitHub repo contains many anti-analysis techniques with source code)
 
