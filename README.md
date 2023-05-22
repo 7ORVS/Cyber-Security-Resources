@@ -21,6 +21,7 @@ I'll update this repo continuously if I find anything useful.
 - https://embee-research.ghost.io/
 - https://c3rb3ru5d3d53c.github.io/
 - https://dr4k0nia.github.io/
+- https://amr-git-dot.github.io/
 ---
 
 ## Useful plug-ins and tools for RE and MA:
