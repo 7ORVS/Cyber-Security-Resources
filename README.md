@@ -22,6 +22,9 @@ I'll update this repo continuously if I find anything useful.
 - https://c3rb3ru5d3d53c.github.io/
 - https://dr4k0nia.github.io/
 - https://amr-git-dot.github.io/
+- https://exploit-notes.hdks.org/
+- https://lkmidas.github.io/
+- https://www.hexacorn.com/blog/
 ---
 
 ## Useful plug-ins and tools for RE and MA:
@@ -60,3 +63,8 @@ I'll update this repo continuously if I find anything useful.
 
 - https://github.com/LordNoteworthy/al-khaser (GitHub repo contains many anti-analysis techniques with source code)
 
+- https://twitter.com/coder_rc/status/1608385931463258112 (This thread on Twitter contains many good resources for RE)
+
+- https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters 
+
+- http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/ (How to become the best malware analyst ever "Very valuable advice")
