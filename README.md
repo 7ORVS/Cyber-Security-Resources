@@ -68,3 +68,5 @@ I'll update this repo continuously if I find anything useful.
 - https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters 
 
 - http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/ (How to become the best malware analyst ever "Very valuable advice")
+
+- http://undocumented.ntinternals.net/ (The Undocumented Functions in windows)
