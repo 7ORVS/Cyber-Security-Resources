@@ -70,3 +70,7 @@ I'll update this repo continuously if I find anything useful.
 - http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/ (How to become the best malware analyst ever "Very valuable advice")
 
 - http://undocumented.ntinternals.net/ (The Undocumented Functions in windows)
+
+- https://infosecwriteups.com/bolo-reverse-engineering-part-1-basic-programming-concepts-f88b233c63b7 (BOLO: Reverse Engineering — Part 1 (Basic Programming Concepts))
+
+- https://medium.com/@danielabloom/bolo-reverse-engineering-part-2-advanced-programming-concepts-b4e292b2f3e (BOLO: Reverse Engineering — Part 2 (Advanced Programming Concepts))
