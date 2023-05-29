@@ -25,6 +25,7 @@ I'll update this repo continuously if I find anything useful.
 - https://exploit-notes.hdks.org/
 - https://lkmidas.github.io/
 - https://www.hexacorn.com/blog/
+- https://infosecwriteups.com/
 ---
 
 ## Useful plug-ins and tools for RE and MA:
